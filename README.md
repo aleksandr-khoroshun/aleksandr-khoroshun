@@ -21,9 +21,7 @@ I am an iOS Developer with experience since 2019, working on projects from scrat
 
 ## Projects
 
-- **LeadFlow: Local Service Leads**
-
-  [LeadFlow on the App Store](https://apps.apple.com/us/app/leadflow-local-service-leads/id6743531643)
+- **LeadFlow: Local Service Leads** - [App Store](https://apps.apple.com/us/app/leadflow-local-service-leads/id6743531643)
 
   <details>
   <summary>Read more</summary>
