@@ -1,6 +1,6 @@
 # Hi, I'm Aleksandr Khoroshun 👋
 
-I am an iOS Developer with experience since 2019, working on projects from scratch to release in the App Store.
+iOS Developer with experience since 2019, working on projects from scratch to release in the App Store.
 
 ## Skills & Technologies
 
