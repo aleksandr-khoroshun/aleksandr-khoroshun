@@ -21,31 +21,25 @@ I am an iOS Developer with experience since 2019, working on projects from scrat
 
 ## Projects
 
-### LeadFlow: Local Service Leads
+- **LeadFlow: Local Service Leads**
 
-[LeadFlow on the App Store](https://apps.apple.com/us/app/leadflow-local-service-leads/id6743531643)
+  [LeadFlow on the App Store](https://apps.apple.com/us/app/leadflow-local-service-leads/id6743531643)
 
-<details>
-<summary>Read more</summary>
+  <details>
+  <summary>Read more</summary>
 
-**LeadFlow** is a mobile app designed for contractors and local service professionals to get real customer leads fast. It continuously monitors local online requests 24/7 and sends instant notifications when someone nearby needs a service like landscaping, roofing, remodeling, fencing, and more.
+  **LeadFlow** is a mobile app designed for contractors and local service professionals to get real customer leads fast. It continuously monitors local online requests 24/7 and sends instant notifications when someone nearby needs a service like landscaping, roofing, remodeling, fencing, and more.
 
-The app helps users grow their business without spending money on ads by connecting them directly with people actively looking for services.
+  The app helps users grow their business without spending money on ads by connecting them directly with people actively looking for services.
 
-### ✅ My role:
-- Developed the entire iOS app from scratch to release
-- Implemented push notification system for real-time leads
-- Integrated maps and geolocation features using **MapKit**
-- Added **In-App Purchases** to enable premium features
+  ### Technologies & Skills:
+  - Swift
+  - UIKit
+  - MapKit
+  - In-App Purchases
+  - Push Notifications
 
-### 🛠 Technologies & Skills:
-- Swift
-- UIKit
-- MapKit
-- In-App Purchases
-- Push Notifications
-
-</details>
+  </details>
 
 ## Education
 
