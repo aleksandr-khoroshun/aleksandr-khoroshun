@@ -19,6 +19,34 @@ I am an iOS Developer with experience since 2019, working on projects from scrat
 - **iOS Developer** @ Owlab (2019 - present)  
   Developing and maintaining iOS applications, collaborating with cross-functional teams, and delivering high-quality products.
 
+## Projects
+
+### LeadFlow: Local Service Leads
+
+[LeadFlow on the App Store](https://apps.apple.com/us/app/leadflow-local-service-leads/id6743531643)
+
+<details>
+<summary>Read more</summary>
+
+**LeadFlow** is a mobile app designed for contractors and local service professionals to get real customer leads fast. It continuously monitors local online requests 24/7 and sends instant notifications when someone nearby needs a service like landscaping, roofing, remodeling, fencing, and more.
+
+The app helps users grow their business without spending money on ads by connecting them directly with people actively looking for services.
+
+### ✅ My role:
+- Developed the entire iOS app from scratch to release
+- Implemented push notification system for real-time leads
+- Integrated maps and geolocation features using **MapKit**
+- Added **In-App Purchases** to enable premium features
+
+### 🛠 Technologies & Skills:
+- Swift
+- UIKit
+- MapKit
+- In-App Purchases
+- Push Notifications
+
+</details>
+
 ## Education
 
 - **Master's degree, Computer Engineering**  
@@ -41,3 +69,5 @@ I live in Poltava, Ukraine.
 
 If you have an interesting opening for me at your company,  
 please contact me at [alexanderkhoroshun@gmail.com](mailto:alexanderkhoroshun@gmail.com).
+
+[Мій профіль на Upwork](https://www.upwork.com/freelancers/~01078af842481506b4)
