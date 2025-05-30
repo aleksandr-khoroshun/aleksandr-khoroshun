@@ -25,6 +25,7 @@ I am an iOS Developer with experience since 2019, working on projects from scrat
 
   <details>
   <summary>Read more</summary>
+  <br>
 
   **LeadFlow** is a mobile app designed for contractors and local service professionals to get real customer leads fast. It continuously monitors local online requests 24/7 and sends instant notifications when someone nearby needs a service like landscaping, roofing, remodeling, fencing, and more.
 
