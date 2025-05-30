@@ -2,17 +2,27 @@
 
 iOS Developer with experience since 2019, working on projects from scratch to release in the App Store.
 
-## Skills & Technologies
-
-- Swift, UIKit, SwiftUI  
-- StoreKit, Core Bluetooth, NFC  
-- Firebase, Realm, Google APIs  
-
 ## About Me
 
 - Passionate about building high-quality iOS applications  
-- Experienced in full project lifecycle from design to deployment  
-- Always eager to learn new technologies and improve my skills  
+- Experienced in full project lifecycle — from design to deployment  
+- Always eager to learn new technologies and improve my skills
+
+## Skills & Technologies
+
+### Core iOS
+- Swift, UIKit, SwiftUI  
+- Combine, Concurrency (async/await, GCD, OperationQueue)  
+- AutoLayout, Storyboards, Programmatic UI
+
+### Frameworks & System APIs
+- StoreKit, In-App Purchases  
+- Core Bluetooth, NFC  
+- Core Location, MapKit
+
+### Data & Networking
+- Firebase, Realm  
+- WebSockets, REST APIs
 
 ## Work Experience
 
