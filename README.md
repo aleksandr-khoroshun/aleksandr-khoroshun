@@ -31,12 +31,7 @@ I am an iOS Developer with experience since 2019, working on projects from scrat
 
   The app helps users grow their business without spending money on ads by connecting them directly with people actively looking for services.
 
-  ### Technologies & Skills:
-  - Swift
-  - UIKit
-  - MapKit
-  - In-App Purchases
-  - Push Notifications
+  **Technologies & Skills:** Swift · UIKit · MapKit · In-App Purchases · Push Notifications
 
   </details>
 
